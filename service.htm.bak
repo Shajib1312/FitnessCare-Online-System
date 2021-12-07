@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="serviceus.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css">
+    <title>contact</title>
+</head>
+
+<body>
+    <div class="main">
+        <div class="navbar">
+            <div class="iccon">
+              <h2 class="logo"><a href="homepage.html">FitnessCare</a> </h2>
+            </div>
+            <div class="manu">
+                <ul>
+                    <li><a href="homepage.html">Home</a></li>
+                    <li><a href="aboutus.html">About</a></li>
+                    <li><a href="sign.htm">Subscribe</a></li>
+                    <li><a href="contact.htm">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="services-section">
+            <div class="inner-width">
+              <h1 class="section-title">Our Services</h1>
+              <div class="border"></div>
+              <div class="services-container">
+        
+                <div class="service-box">
+                  <div class="service-icon">
+                    <i class="fas fa-running"></i>
+                  </div>
+                  <div class="service-title">Fitness</div>
+                  <div class="service-desc">
+                    Fitness means different things to different people and Health has something for everyone, whether you're
+                    just getting started with a workout routine or have been training since before TikTok was a thing. Get our
+                    latest expert moves, pro-tips, and recommendations for who to follow.
+                  </div>
+                </div>
+        
+                <div class="service-box">
+                  <div class="service-icon">
+                    <i class="fas fa-dumbbell"></i>
+                  </div>
+                  <div class="service-title">worksout</div>
+                  <div class="service-desc">
+                    In the realm of fitness, three-month workout programs dominate the landscape. You’ve even seen plenty of
+                    them in our magazine over the years. Are they effective? Absolutely. But we’re going to let you in on an
+                    interesting secret: It doesn’t necessarily take 8 or 12 weeks to get your feet wet in the gym.
+                  </div>
+                </div>
+        
+                <div class="service-box">
+                  <div class="service-icon">
+                    <i class="fas fa-heartbeat"></i>
+                  </div>
+                  <div class="service-title">Health</div>
+                  <div class="service-desc">
+                    A physical fitness test may include a repetition maximum of strength-based exercises, like squats or bench
+                    presses, to assess muscular strength.People may also complete walking or step aerobics tests, during which
+                    heart rate is assessed to determine cardiovascular fitness.
+                  </div>
+                </div>
+        
+                <div class="service-box">
+                  <div class="service-icon">
+                    <i class="fas fa-apple-alt"></i>
+                  </div>
+                  <div class="service-title">Meals Plane</div>
+                  <div class="service-desc">
+                    This Fitness Blender Calendar based plan, built with registered dietitians and nutritionists, is a healthy,
+                    plant based meal plan which details 3 meals, and 3 snacks, every day for four weeks. There is a
+                    corresponding downloadable and printable grocery list for each week, and there are 5 different calorie
+                    allotments to choose from so that you can customize these plans to meet your exact goals (weight loss, gain,
+                    or maintenance).
+                  </div>
+                </div>
+        
+                <div class="service-box">
+                  <div class="service-icon">
+                    <i class="fas fa-calendar-alt"></i>
+                  </div>
+                  <div class="service-title">Routine</div>
+                  <div class="service-desc">
+                    Whether you want to save time scheduling your favorite morning warm-up each week, or you want to create a
+                    comprehensive fitness plan, building Routines couldn’t be easier. Adding workouts from your favorites list
+                    is a great place to start, or you can leverage filters, tags, and the content-aware Routine details to build
+                    highly customized Routines with targeted criteria
+                  </div>
+                </div>
+        
+                <div class="service-box">
+                  <div class="service-icon">
+                    <i class="fas fa-mortar-pestle"></i>
+                  </div>
+                  <div class="service-title">Healthy recipe</div>
+                  <div class="service-desc">
+                    for break fast:
+                    Healthy Protein Pancakes,Rich Breakfast Smoothie,Kick-Start Smoothie,Amazing Yam Quiche.
+        
+                    Snack / Sides Recipes:
+                    Protein-Packed Quinoa Salad,Quick And Easy Avocado Salad,Chickpea Salad,On-The-Run Healthy Chocolate Protein
+                    Bars,Chocolate Protein Crispy Bars.
+        
+                    Dinner Recipes:
+        
+                    Flavour-Filled Thai Chicken Spinach Salad,Clean Eating Spaghetti Squash Bolognese,Delightful Vegetarian
+                    Stuffed Peppers.
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+    </div>
+
+</body>
+
+</html>
